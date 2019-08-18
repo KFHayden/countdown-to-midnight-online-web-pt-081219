@@ -1,4 +1,3 @@
-def loops
 
 def countdown
   number = 10
