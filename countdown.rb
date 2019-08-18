@@ -11,5 +11,6 @@ def loop
   
   def countdown_with_sleep(num_sec)
     while countdown(number)
-    
+    sleep 5
+  end
 end
