@@ -7,4 +7,3 @@ def countdown
   number -= 10
 end
 end
-"HAPPY NEW YEAR!"
