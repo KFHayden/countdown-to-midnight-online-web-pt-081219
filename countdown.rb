@@ -1,4 +1,4 @@
-def loops
+def loop
   
   def countdown(number)
     number = 10
