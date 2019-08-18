@@ -8,6 +8,4 @@ def loop
     end
     return "HAPPY NEW YEAR!"
   end
-
-  def countdown_with_sleep(num_secs)
-    while 
+end
